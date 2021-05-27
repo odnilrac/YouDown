@@ -1,1 +1,1 @@
-# YouDown
+Projeto em Python para realizar o download do áudio ou vídeo do YouTube com base na biblioteca pytube (https://pypi.org/project/pytube/), versão 10.8.2 ou superior. ATENÇÃO: Versão 10.8.1 apresenta erro 404! Permite que o usuário digite o cole o endereço do vídeo no YouTube, seja no formato normal ou de compartilhamento. Após realizada uma validação da URL, basta informar o tipo de download, uma barra de progresso será apresentada para facilitar a identificação do término.
